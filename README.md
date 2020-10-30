@@ -38,7 +38,7 @@ Initially it appears as though selecting specific features to evaluate does not 
 <br>
 Therefore, when creating a machine learing model for this data set, utilising all values within the dataset gives us a better result, and better ability to classify candidate exoplanets - these results are across both the Logistic Regression and Support Vector Machines, and the indication that scores are the same utilising both methods, tells us that these machines can be trusted, to be accurate in classifying candidate exoplanets.
 
-
+As both models - logistic_regression.sav and svm_model.sav are at almost identical score values, these have been saved as the best models.
 
 
 <br><br><br>
