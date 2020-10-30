@@ -17,14 +17,14 @@ When viewing the data and data dictionary, it was clear that there was some valu
 
 <h3>Logistic Regression</h3>
 <p>Two logistic regression models were created within notebook files, the notebook files are called 'logistic_model.ipynb', and 'logistic_model_compare.ipynb'. The models have also been saved as '.sav' files. <br>
-In the 'logistic_model.ipynb', features have been selected specifically to evaluate, based off information within the data dictionary. 
+In 'logistic_model.ipynb', features have been selected specifically to evaluate, based off information within the data dictionary. 
 <br><br>
 Within 'logistic_model_compare.ipynb', we have used all columns (other than the selected column for our y value), to evaluate. <p>
 <br><br>
 <hr>
 <h3>Support Vector Machine</h3>
 <p>Two support vector machines were created within notebook files, the notebook files are called 'svm_model.ipynb', and 'svm_model_compare.ipynb' The models have also been saved as '.sav' files. <br>
-In the 'svm_model.ipynb', features have been selected specifically to evaluate, based off information within the data dictionary. 
+In 'svm_model.ipynb', features have been selected specifically to evaluate, based off information within the data dictionary. 
 <br><br>
 Within 'svm_model_compare.ipynb', we have used all columns (other than the selected column for our y value), to evaluate.<p>
 
